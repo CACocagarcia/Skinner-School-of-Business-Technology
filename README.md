@@ -1,4 +1,3 @@
-# Skinner-School-of-Business-and-Technology
 # Skinner-School-of-Business-and-Technology..Department-of-Technology-and-Design
 Proposal Website for Trevecca Nazarene University for the: Skinner School of Business and Technology:  Department of Technology and Design
 Not Responsive Website
